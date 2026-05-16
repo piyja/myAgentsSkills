@@ -1,0 +1,3 @@
+[submodule "useful-skills/skills"]
+	path = useful-skills/skills
+	url = https://github.com/mattpocock/skills.git
