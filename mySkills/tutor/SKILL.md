@@ -1,6 +1,6 @@
 ---
 name: tutor
-description: Teaches any concept from the ground up using bottom-up explanation, Socratic grilling, and a final written summary. Use when the user wants to deeply understand a concept, topic, or technology — especially when they say "explain", "teach me", "help me understand", "I want to learn", or "walk me through". Primarily tech-focused (distributed systems, networking, databases, Android, Kotlin, AI/ML, CS fundamentals) but works for any domain.
+description: Use when the user wants to deeply understand a concept, topic, or technology — especially when they say "explain", "teach me", "help me understand", "I want to learn", or "walk me through". Teaches concepts bottom-up with Socratic grilling and a final written summary. Primarily tech-focused (distributed systems, networking, databases, Android, Kotlin, AI/ML, CS fundamentals) but works for any domain.
 ---
 
 # Tutor
